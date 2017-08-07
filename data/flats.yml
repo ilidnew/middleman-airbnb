@@ -1,0 +1,18 @@
+- city: 'Paris'
+  country: 'France'
+  user: 'ssaunier'
+  title: "Sebastien's home"
+  description: 'Charming room in Montmartre'
+  rating: '4'
+- city: 'Tokyo'
+  country: 'Japan'
+  user: 'papillard'
+  title: "Boris' home"
+  description: 'Small flat in Tokyo'
+  rating: '3'
+- city: 'London'
+  country: 'UK'
+  user: 'monsieurpaillard'
+  title: "Romain's home"
+  description: 'Nice flat in Piccadilly'
+  rating: '5'
